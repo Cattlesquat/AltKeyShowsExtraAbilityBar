@@ -1,0 +1,10 @@
+{
+    "id": "AltKeyShowsExtraAbilityBar",
+    "loadorder": 1,
+    "title": "{{extradimensional|AltKeyShowsExtraAbilityBar}}",
+    "description": "This mod makes holding down the ALT key temporarily show the NEXT nine abilities on the bar.\n\nClicking these abilities while holding down ALT will activate them.\n\nTo make the key bindings work you will need to go to the 'Ability Bar' bindings under 'Control Mapping' on the game menu and add Alt+1 as an alternate key binding for 'Use Ability 1', add Alt+2 as an alternate key binding for 'Use Ability 2', and the same for abilities 3 through 9",
+    "tags": "Stable,UX,UI",
+    "version": "1.0",
+    "author": "Cattlesquat",
+    "previewImage": "preview.png"
+}
