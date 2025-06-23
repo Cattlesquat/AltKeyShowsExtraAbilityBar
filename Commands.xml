@@ -1,0 +1,30 @@
+<commands>
+    <!-- This will bind Alt+1, Alt+2, etc to the ability bar if they aren't already bound to something else -->
+    <command ID="CmdAbility1">
+        <keyboardBind Modifier="alt" Key="1"/>
+    </command>
+    <command ID="CmdAbility2">
+        <keyboardBind Modifier="alt" Key="2"/>
+    </command>
+    <command ID="CmdAbility3">
+        <keyboardBind Modifier="alt" Key="3"/>
+    </command>
+    <command ID="CmdAbility4">
+        <keyboardBind Modifier="alt" Key="4"/>
+    </command>
+    <command ID="CmdAbility5">
+        <keyboardBind Modifier="alt" Key="5"/>
+    </command>
+    <command ID="CmdAbility6">
+        <keyboardBind Modifier="alt" Key="6"/>
+    </command>
+    <command ID="CmdAbility7">
+        <keyboardBind Modifier="alt" Key="7"/>
+    </command>
+    <command ID="CmdAbility8">
+        <keyboardBind Modifier="alt" Key="8"/>
+    </command>
+    <command ID="CmdAbility9">
+        <keyboardBind Modifier="alt" Key="9"/>
+    </command>
+</commands>
