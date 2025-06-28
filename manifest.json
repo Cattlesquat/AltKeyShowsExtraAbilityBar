@@ -5,6 +5,6 @@
     "description": "This mod makes holding down the ALT key temporarily show the NEXT nine abilities on the bar.\n\nClicking these abilities while holding down ALT will activate them.\n\nTo make keyboard activation work, Alt+1 needs to be bound as an alternate binding to 'Use Ability 1', Alt+2 needs to be bound as an alternate binding to 'Use Ability 2', etc. The mod will attempt to make those bindings when you install it, but if you've already ever bound e.g. Alt+1 to something else, you will need to go to the Control Mapping section from the game menu and make the bindings yourself.\n\nhttps://github.com/Cattlesquat/AltKeyShowsExtraAbilityBar",
     "tags": "Stable,UX,UI,Cosmetic",
     "version": "1.1",
-    "author": "Cattlesquat",
+    "author": "{{ubernostrum|Cattlesquat}}",
     "previewImage": "preview.png"
 }
